@@ -1,0 +1,3 @@
+pc_Url=direct:http://gitlab.dev.k8s.lesso.com/operation-platform-group/element-web-demo.git
+WeChat_Url=direct:http://gitlab.dev.k8s.lesso.com/operation-platform-group/demo-wechat.git
+CC_app_Url=direct:http://gitlab.dev.k8s.lesso.com/operation-platform-group/demo-ccapp.git
